@@ -1,0 +1,21 @@
+body {
+  margin-right: 30%;
+}
+
+.ng-log-panel {
+  position: absolute;
+  right: 0;
+  height: 100%;
+  top: 0;
+  width: 30%;
+  background: #666;
+  z-index: 99999;
+}
+
+.ng-scope-code {
+  
+}
+
+.ng-agent-view:hover {
+  outline: 3px solid red;
+}
